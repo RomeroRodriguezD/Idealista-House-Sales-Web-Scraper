@@ -11,7 +11,7 @@ import statistics
 # Tkinter GUI, just for task checking purposes
 
 window = tk.Tk()
-window.title("Viviendas de Cerdanyola Pipiii")
+window.title("Viviendas de Cerdanyola")
 window.pack_propagate(False)
 window.geometry("450x253")
 bg=tk.PhotoImage(file="fraskitowers.png")
